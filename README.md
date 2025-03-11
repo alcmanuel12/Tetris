@@ -18,4 +18,4 @@ Sigue estos pasos para configurar el proyecto en tu máquina:
    - Abre una terminal o línea de comandos.
    - Ejecuta el siguiente comando:  
      ```bash
-     git clone https://github.com/tu-usuario/tetris-java.git
+   https://github.com/alcmanuel12/Tetris.git
