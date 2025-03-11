@@ -17,5 +17,5 @@ Sigue estos pasos para configurar el proyecto en tu máquina:
 1. **Clonar el repositorio**:
    - Abre una terminal o línea de comandos.
    - Ejecuta el siguiente comando:  
-     ```bash https://github.com/alcmanuel12/Tetris.git
+   https://github.com/alcmanuel12/Tetris.git
    
