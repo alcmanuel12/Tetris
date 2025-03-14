@@ -7,7 +7,7 @@ public class Board {
 
 	private final int WIDTH = 10;
 	private final int HEIGHT = 20;
-	private Color[][] grid;
+	Color[][] grid;
 
 	public Board() {
 		grid = new Color[HEIGHT][WIDTH];
